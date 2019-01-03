@@ -1,11 +1,11 @@
 {
-  "name": "peio-blog",
+  "name": "diego-blog",
   "private": true,
-  "description": "My (peio) blog powered by Gatsby",
+  "description": "My (Diego) blog powered by Gatsby",
   "version": "0.1.0",
-  "author": "Peio Roth <pierreroth64@gmail.com>",
+  "author": "Diego Felipe <diego.felipevital@gmail.com>",
   "bugs": {
-    "url": "https://github.com/pierreroth64/pierreroth64.github.io/issues"
+    "url": "https://github.com/dfelipev/dfelipev.github.io/issues"
   },
   "dependencies": {
     "@mdi/js": "3.2.89",
@@ -36,15 +36,14 @@
     "typeface-merriweather": "0.0.43",
     "typeface-montserrat": "0.0.43",
     "typography": "0.16.17",
-    "typography-theme-alton": "0.16.18",
-    "typography-theme-fairy-gates": "0.16.18"
+    "typography-theme-alton": "0.16.18"
   },
   "devDependencies": {
     "eslint": "4.19.1",
     "eslint-plugin-react": "7.11.1",
     "prettier": "1.14.2"
   },
-  "homepage": "https://github.com/pierreroth64/pierreroth64.github.io#readme",
+  "homepage": "https://github.com/dfelipev/dfelipev.github.io#readme",
   "keywords": [
     "gatsby"
   ],
@@ -52,7 +51,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pierreroth64/pierreroth64.github.io.git"
+    "url": "git+https://github.com/dfelipev/dfelipev.github.io.git"
   },
   "scripts": {
     "dev": "gatsby develop",

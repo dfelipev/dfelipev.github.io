@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "peio-blog",
-  "alias": "peio.now.sh",
+  "name": "diego-blog",
+  "alias": "diego.now.sh",
   "builds": [
     {
       "src": "package.json",
