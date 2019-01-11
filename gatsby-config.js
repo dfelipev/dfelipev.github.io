@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Diego's blog`,
-    author: `Deigo`,
+    author: `Diego`,
     description: `Diego's blog`,
     siteUrl: `https://diego.now.sh`,
     cvUrl: `https://remixjobs.com/cv/DiegoFelipe`,
