@@ -6,10 +6,10 @@ module.exports = {
     siteUrl: `https://diego.now.sh`,
     cvUrl: `https://remixjobs.com/cv/DiegoFelipe`,
     social: {
-      twitter: `diegof`,
+      twitter: `dfelipevital`,
       github: `dfelipev`,
       aboutme: `diego.felipe`,
-      linkedin: `diegofelipe`,
+      linkedin: `diego-felipe-vital-10b148152`,
     },
   },
   plugins: [
