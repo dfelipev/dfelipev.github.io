@@ -4,7 +4,7 @@ module.exports = {
     author: `Diego`,
     description: `Diego's blog`,
     siteUrl: `https://diego.now.sh`,
-    cvUrl: `https://remixjobs.com/cv/DiegoFelipe`,
+    cvUrl: `https://drive.google.com/open?id=1lECVoYRWNGl4ahhIrWM4kuUECgfEHNp8`,
     social: {
       twitter: `dfelipevital`,
       github: `dfelipev`,
