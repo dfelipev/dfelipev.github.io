@@ -30,7 +30,8 @@ function Bio() {
 
             <p>
               My name's <strong>{author}</strong> and I'm product owner and
-              verification engineer <a href="http://www.eove.fr">@eove</a>.
+              verification engineer <a href="http://www.eove.fr">@eove</a>. 
+              Click on links below to get informations about my professional skills.
               <SocialBar />
             </p>
           </div>
