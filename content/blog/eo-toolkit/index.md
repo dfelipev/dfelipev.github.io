@@ -25,6 +25,8 @@ Tras varios intentos y siguiendo nuestro objetivo de liquidar esa deuda técnica
 
 ### Objetivos
 
+![eo-toolkit launch](./projet_targets.jpg)
+
 Primera parte super importante en el comienzo de un proyecto, sea el que sea. Muchos son los objetivos, pero pocos (los verdaderamente importantes) deben ser los abordados para delimitar el perímetro de acción. Creo que todo product owner, jefe de proyecto, etc... debería de aplicarse "el que mucho abarca, poco aprieta".
 
 Así que nosotros, elegimos los siguientes:
@@ -35,11 +37,7 @@ Así que nosotros, elegimos los siguientes:
 
 Y los hemos tenido delante durante todo el desarrollo, justo enfrente de nuestros puestos de trabajo, y en una zona de paso... nosotros no nos hemos olvidado en ningún momento, los demás han tenido curiosidad y sin quererlo ni beberlo, todo el mundo estaba al día de que se quería conseguir con este software.
 
-![eo-toolkit launch](./projet_targets.jpg)
-
 ### Ubiquitous Language
-
-![communication issue](./com_issue_3.jpg)
 
 Segunda parte esencial en el comienzo de un proyecto, sea el que sea. En toda comunicación, utilizar un lenguaje común es necesario para que la transmisión de información sea optima. La receta que hemos utilizado es la siguiente:
 
@@ -55,6 +53,8 @@ Pasos a seguir para obtener un suculento _ubiquitous language_:
 4. Corregir al compañero es obligatorio, y solamente debe de tomarse como algo constructivo y nunca como una crítica banal.
 
 De esta manera, no hay lugar a errores de comunicación/interpretación, es decir, de trabajo en vano, pérdida de tiempo, retraso en el planning, conflicto entre compañeros de equipo, etc...
+
+![communication issue](./com_issue_3.jpg)
 
 ### Definition of Done
 
@@ -108,4 +108,7 @@ Cuando el software comienza a ser presentable, no hay que dudar en mostrarlo a l
 - Hay que sentarse al lado del usuario final y dejarle _zarcear_, ese sera tu mejor FEEDBACK.
 - Una demo regular transmite confianza y buen ambiente.
 - La negociación es primordial para llegar a buen puerto.
+- El PO hace mucha faena en la sombra, pero pienso que es indispensable para cualquier proyecto.
+
+![super PO](./super_PO.jpg)
 
