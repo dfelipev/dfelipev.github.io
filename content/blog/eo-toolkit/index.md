@@ -23,7 +23,7 @@ Tras varios intentos y siguiendo nuestro objetivo de liquidar esa deuda técnica
 
 ## Antes de empezar
 
-### Objetivos
+### 1. Objetivos
 
 ![eo-toolkit launch](./projet_targets.jpg)
 
@@ -37,7 +37,7 @@ Así que nosotros, elegimos los siguientes:
 
 Y los hemos tenido delante durante todo el desarrollo, justo enfrente de nuestros puestos de trabajo, y en una zona de paso... nosotros no nos hemos olvidado en ningún momento, los demás han tenido curiosidad y sin quererlo ni beberlo, todo el mundo estaba al día de que se quería conseguir con este software.
 
-### Ubiquitous Language
+### 2. Ubiquitous Language
 
 Segunda parte esencial en el comienzo de un proyecto, sea el que sea. En toda comunicación, utilizar un lenguaje común es necesario para que la transmisión de información sea optima. La receta que hemos utilizado es la siguiente:
 
@@ -56,7 +56,7 @@ De esta manera, no hay lugar a errores de comunicación/interpretación, es deci
 
 ![communication issue](./com_issue_3.jpg)
 
-### Definition of Done
+### 3. Definition of Done
 
 Tercero y último, ponerse de acuerdo en que es lo que cada uno tiene que hacer para considerar que una tarea esta totalmente terminada y se puede pasar a otra cosa. Es la única manera de no dejar las cosas a medias, de no dejar para el final lo menos agradable y de mantener una visión clara/instantánea del avance del proyecto. Y lo mejor, permite de versionar prácticamente en todo momento, y eso es oro.
 
@@ -110,5 +110,6 @@ Cuando el software comienza a ser presentable, no hay que dudar en mostrarlo a l
 - La negociación es primordial para llegar a buen puerto.
 - El PO hace mucha faena en la sombra, pero pienso que es indispensable para cualquier proyecto.
 
-![super PO](./super_PO.jpg)
+
+![super PO](./super_po.jpg)
 
