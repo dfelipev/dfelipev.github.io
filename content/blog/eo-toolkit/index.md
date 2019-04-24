@@ -110,6 +110,5 @@ Cuando el software comienza a ser presentable, no hay que dudar en mostrarlo a l
 - La negociación es primordial para llegar a buen puerto.
 - El PO hace mucha faena en la sombra, pero pienso que es indispensable para cualquier proyecto.
 
-
 ![super PO](./super_po.jpg)
 
