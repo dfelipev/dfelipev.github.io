@@ -3,7 +3,7 @@ title: '# eo-toolkit, mucho mas que una herramienta de diagnostico...'
 date: '2019-04-17'
 ---
 
-**Tiempo estimado de lectura:** *yo no hago estimaciones*
+**Tiempo estimado de lectura:** *mejor no hacer estimaciones...*
 
 ![eo-toolkit launch](./splas-toolkit.gif)
 
@@ -98,9 +98,9 @@ Toda aplicación/software que no cuente con un buen paqueton de test unitarios q
 
 Cuando el software comienza a ser presentable, no hay que dudar en mostrarlo a los individuos interesados, sobre todo si pueden darte información, opiniones, criticas que puedan ayudarte en la consecución de tus objetivos. De esta manera se consiguen varias cosas:
 
-- Feedback/use experience: No se sabe si se està haciendo bien hasta que el usuario confirma, comenta y critica. Incluso si el PO debe ir a buscar esa valiosa información antes de nada, a veces se toman decisiones que parecen buenas en el seno del equipo, pero que no lo son del todo (o para nada) cuando se trata del usuario. Nadie mejor que el usuario (sobre todo si tiene experiencia con programas precedentes) sabe que es lo que le cuesta más, que es lo que le ayudará en el dia a dia y que es lo que le saca de quicio. Todo eso se tiene que reinyectar progresivamente (siempre y cuando no provoque el hundimiento del barco) y mostrarlo a esos usuarios finales porque, al final, son ellos los que van a utilizar ese programa cada dia.
-- El mejor GPS: Si el proyecto empieza a coger una direccion erronea, los clientes presentes en la demostración enseguida lo detectaran y lo harán saber. Así se evitan las derivas, la pérdida de tiempo, el agotamiento del presupuesto y tirar el programa a la basura porque ya es demasiado tarde.
-- Confianza: si el cliente/usuario del proyecto ve que sus comentarios y propuestas cogen forma cada semana, se crea un vinculo con el equipo de desarrollo que tiene mucho,volar. El poder ver y manipular ese programa antes de encontrarselo instalado en su PC un martes por la mañana y estar obligado a utilizarlo sin haber dicho ni muh, facilitara su aceptación.
+- *Feedback/use experience*: No se sabe si se està haciendo bien hasta que el usuario confirma, comenta y critica. Incluso si el PO debe ir a buscar esa valiosa información antes de nada, a veces se toman decisiones que parecen buenas en el seno del equipo, pero que no lo son del todo (o para nada) cuando se trata del usuario. Nadie mejor que el usuario (sobre todo si tiene experiencia con programas precedentes) sabe que es lo que le cuesta más, que es lo que le ayudará en el dia a dia y que es lo que le saca de quicio. Todo eso se tiene que reinyectar progresivamente (siempre y cuando no provoque el hundimiento del barco) y mostrarlo a esos usuarios finales porque, al final, son ellos los que van a utilizar ese programa cada dia.
+- *El mejor GPS*: Si el proyecto empieza a coger una direccion erronea, los clientes presentes en la demostración enseguida lo detectaran y lo harán saber. Así se evitan las derivas, la pérdida de tiempo, el agotamiento del presupuesto y tirar el programa a la basura porque ya es demasiado tarde.
+- *Confianza*: si el cliente/usuario del proyecto ve que sus comentarios y propuestas cogen forma cada semana, se crea un vinculo con el equipo de desarrollo que tiene mucho,volar. El poder ver y manipular ese programa antes de encontrarselo instalado en su PC un martes por la mañana y estar obligado a utilizarlo sin haber dicho ni muh, facilitara su aceptación.
 
 ##CONCLUSIONES (de los errores siempre se aprende)
 
