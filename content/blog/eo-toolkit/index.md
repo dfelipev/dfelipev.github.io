@@ -5,9 +5,11 @@ date: '2019-04-17'
 
 ![eo-toolkit launch](./splas-toolkit.gif)
 
-Lo primero de todo, aunque seguro que no se me iba a olvidar, solamente puedo dar gracias a [Peio Roth](https://about.me/peioroth) por haberme enmbarcado en esta aventura "agile". Una verdadera experiencia de [product owner](https://proyectosagiles.org/cliente-product-owner/) puro. Y que quede claro, trabajar con alguien que roza la excelencia tanto como programador, como diseñador, como 'coach' agile y como product owner es muy facil, sobre todo cuando esa persona es humilde y pedagoga. 
+Lo primero de todo quiero dar las gracias a [Peio Roth](https://about.me/peioroth) por haber combartido barco en esta aventura "agile", una verdadera experiencia de [product owner](https://proyectosagiles.org/cliente-product-owner/).
 
-Juntos hemos creado una herramienta de trabajo, util 100%, con la consecucion de los objetivos iniciales, mejorable (como todos los softwares habidos y por haber), colaborado con nuestros clientes (compañeros en este caso) y utilizado un método de trabajo, que puede serme util de aqui en adelante. Y, como no habiamos estimado el tiempo que nos iba a costar, no nos hemos equivocado... (lo explicare mas abajo).
+Que quede claro, trabajar con alguien que roza la excelencia tanto como programador, como diseñador, como 'coach' agile y como product owner es muy facil, sobre todo cuando esa persona es un excelente compañero de trabajo y amigo.
+
+Juntos hemos creado una herramienta de trabajo, util 100%, con la consecucion de los objetivos iniciales, mejorable (como todos los softwares habidos y por haber), colaborado con nuestros clientes (compañeros en este caso) y utilizado un método de trabajo, que puede serme util de aqui en adelante. Y, como no habiamos estimado el tiempo que nos iba a costar, no nos hemos equivocado... o solo un poco... (lo explicare mas abajo).
 
 ## Porque este software??
 
