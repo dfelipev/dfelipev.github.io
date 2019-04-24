@@ -1,7 +1,9 @@
 ---
-title: 'Las vueltas que da la vida!'
-date: '2019-01-01'
+title: '# eo-toolkit, mucho mas que una herramienta de diagnostico...'
+date: '2019-04-17'
 ---
+
+![eo-toolkit launch](./splas-toolkit.gif)
 
 # eo-toolkit, mas que una herramienta de diagnostico...
 
@@ -38,9 +40,9 @@ Ingredientes:
 
 Pasos a seguir para obtener un suculento ubiquitous language:
 1. Se lista las partes del software/aplicacion
-1. Todo el mundo toma nota y pregunta si no queda claro
-1. Todo el mundo lo utiliza desde el principio, sin excepciones, tanto en la comunicacion verbal, como en la redaccion de ticket/tareas.
-2. Corregir al compañero es obligartorio, y solamente debe de tomarse como algo contructivo y nunca como una critica vanal.
+2. Todo el mundo toma nota y pregunta si no queda claro
+3. Todo el mundo lo utiliza desde el principio, sin excepciones, tanto en la comunicacion verbal, como en la redaccion de ticket/tareas.
+4. Corregir al compañero es obligartorio, y solamente debe de tomarse como algo contructivo y nunca como una critica vanal.
 
 De esta manera, no hay lugar a errores de comunicacion/interpretacion, es decir, de trabajo en vano, perdida de tiempo, retraso en el planning, conflicto entre compañeros de equipo, etc...
 
