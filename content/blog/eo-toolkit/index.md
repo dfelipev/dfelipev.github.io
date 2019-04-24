@@ -3,6 +3,8 @@ title: '# eo-toolkit, mucho mas que una herramienta de diagnostico...'
 date: '2019-04-17'
 ---
 
+**Tiempo estimado de lectura:** *yo no hago estimaciones*
+
 ![eo-toolkit launch](./splas-toolkit.gif)
 
 Lo primero de todo quiero dar las gracias a [Peio Roth](https://about.me/peioroth) por haber compartido barco en esta aventura "agile", una verdadera experiencia de [product owner](https://proyectosagiles.org/cliente-product-owner/).
