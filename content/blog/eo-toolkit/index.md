@@ -5,11 +5,9 @@ date: '2019-04-17'
 
 ![eo-toolkit launch](./splas-toolkit.gif)
 
-# eo-toolkit, mas que una herramienta de diagnostico...
-
 Lo primero de todo, aunque seguro que no se me iba a olvidar, solamente puedo dar gracias a [Peio Roth](https://about.me/peioroth) por haberme enmbarcado en esta aventura "agile". Una verdadera experiencia de [product owner](https://proyectosagiles.org/cliente-product-owner/) puro. Y que quede claro, trabajar con alguien que roza la excelencia tanto como programador, como diseñador, como 'coach' agile y como product owner es muy facil, sobre todo cuando esa persona es humilde y pedagoga. 
 
-Juntos hemos creado una herramienta de trabajo, util 100%, con la consecucion de los objetivos iniciales, mejorable (como todos los softwares habidos y por haber), colaborado con nuestros clientes (compañeros en este caso) y utilizado un método de trabajo, que puede serme util de aqui en adelante. 
+Juntos hemos creado una herramienta de trabajo, util 100%, con la consecucion de los objetivos iniciales, mejorable (como todos los softwares habidos y por haber), colaborado con nuestros clientes (compañeros en este caso) y utilizado un método de trabajo, que puede serme util de aqui en adelante. Y, como no habiamos estimado el tiempo que nos iba a costar, no nos hemos equivocado... (lo explicare mas abajo).
 
 ## Porque este software??
 
@@ -29,16 +27,22 @@ Asi que nosotros, elegimos los siguientes:
 - Fiabilidad: durante el control, solamente el dispositivo fabricado puede fallar, el programa de control tiene que funcionar si o si (una herramienta que funiona siempre hace ganar tiempo igualemente)
 - Ergonomia: un trabajo repetitivo es aburrido siempre, pero al menos que sea facil de utilizar y agradable a la vista.
 
+Y los hemos tenido delante durante todo el desarrollo, justo enfrente de nuestros puestos de trabajo, y en una zona de paso... nosotros no nos hemos olvidado en ningun momento, los demas han tenido curiosidad y sin quererlo ni beberlo, todo el mundo estaba al dia de que se queria conseguir con este software.
+
+![eo-toolkit launch](./projet_targets.jpg)
+
 ## Ubiquitous Language
 
-Segunda parte esencial en el comienzo de un proyecto, sea el que sea. En toda comunicacion, utilizar un lenguaje comun es necesario para que la transmision de informacion sea optima. La receta que hemos utilizado y que ha tenido muy buena acepacion es la siguiente:
+![communication issue](./com_issue_3.jpg)
+
+Segunda parte esencial en el comienzo de un proyecto, sea el que sea. En toda comunicacion, utilizar un lenguaje comun es necesario para que la transmision de informacion sea optima. La receta que hemos utilizado es la siguiente:
 
 Ingredientes:
 - 1m2 de pizarra
 - 500gr idea general del programa/applicacion que se va a crear
 - 2 cucharadas de ingles tecnico.
 
-Pasos a seguir para obtener un suculento ubiquitous language:
+Pasos a seguir para obtener un suculento _ubiquitous language_:
 1. Se lista las partes del software/aplicacion
 2. Todo el mundo toma nota y pregunta si no queda claro
 3. Todo el mundo lo utiliza desde el principio, sin excepciones, tanto en la comunicacion verbal, como en la redaccion de ticket/tareas.
@@ -49,14 +53,4 @@ De esta manera, no hay lugar a errores de comunicacion/interpretacion, es decir,
 ## Pistoletazo de salida
 
 Diseño del interface, division, backlog, descripcion de tareas, priorizacion... AAAAAAAAAAAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHH
-
-
-
-
-
-
-
-# Quien me iba a decir...
-
-La redaccion de mi aventura esta en marcha...
 
