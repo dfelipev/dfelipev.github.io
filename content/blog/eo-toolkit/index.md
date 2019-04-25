@@ -46,7 +46,7 @@ Segunda parte esencial en el comienzo de un proyecto, sea el que sea. En toda co
 Ingredientes:
 - 1m2 de pizarra
 - 500gr idea general del programa/aplicación que se va a crear
-- 2 cucharadas de inglés técnico.
+- 2 cucharadas de inglés técnico
 
 Pasos a seguir para obtener un suculento _ubiquitous language_:
 1. Se listan las partes del software/aplicación.
@@ -60,13 +60,13 @@ De esta manera, no hay lugar a errores de comunicación/interpretación, es deci
 
 ### 3. Definition of Done
 
-Tercero y último, ponerse de acuerdo en que es lo que cada uno tiene que hacer para considerar que una tarea esta totalmente terminada y se puede pasar a otra cosa. Es la única manera de no dejar las cosas a medias, de no dejar para el final lo menos agradable y de mantener una visión clara/instantánea del avance del proyecto. Y lo mejor, permite de versionar prácticamente en todo momento, y eso es oro.
+Tercero y último, ponerse de acuerdo en que es lo que cada uno tiene que hacer para considerar que una tarea está totalmente terminada y se puede pasar a otra cosa. Es la única manera de no dejar las cosas a medias, de no dejar para el final lo menos agradable y de mantener una visión clara/instantánea del avance del proyecto. Y lo mejor, permite de versionar prácticamente en todo momento, y eso es oro.
 
 ## Gestión del proyecto
 
 ### TODAS las estimaciones son falsas
 
-Casi todos los proyectos necesitan un plazo, los internos porque hay otros proyectos esperando y los externos porque hay que poder presupuestarlos. Nosotros hemos tenido la suerte de anunciar una fecha más o menos, equivocarnos sin que nadie nos diga nada y liberar el software cuando lo hemos considerado maduro y funcional, pero eso no suele pasar. Así que cuando un superior o un cliente pide una estimación con un planning detallado, hay que hacerle saber que va a ser erróneo de un porcentaje muy elevado y que el tiempo del planning detallado es mejor utilizarlo en hacer avanzar el proyecto que en equivocarse detalladamente.
+Casi todos los proyectos necesitan un plazo, los internos porque hay otros proyectos esperando y los externos porque hay que poder presupuestarlos. Nosotros hemos tenido la suerte de anunciar una fecha aproximada, equivocarnos sin que nadie nos diga nada y liberar el software cuando lo hemos considerado maduro y funcional, pero eso no suele pasar. Así que cuando un superior o un cliente pide una estimación con un planning detallado, hay que hacerle saber que va a ser erróneo de un porcentaje muy elevado y que el tiempo del planning detallado es mejor utilizarlo en hacer avanzar el proyecto que en equivocarse detalladamente. Lo ideal seria el poder contestar: "estará terminado cuando esté terminado", pero eso es difícil de soltarselo a tu jefe/responsable/etc...
 
 ### El PO negocia y tiene la obligacion de decir NO
 
@@ -82,32 +82,28 @@ No sirve de nada llenar el backlog o el TODO con cientos de tickets, crear por n
 4. Si un ticket es importante, se volverá a hablar de él y podremos incluirlo en el momento adecuado.
 5. Un ticket tiene que escribirse cuando se tiene claro lo que se tiene que hacer y se dispone del tiempo necesario para crearlo correctamente. Los tickets con solamente un título no deben crearse (excepto si lo hace el programador "toto" para resolverlo el mismo; sí, los programadores tienen más derechos que el PO).
 
-### Ticket = pseudo code
-
-El programador, la mayor parte del tiempo, no necesita comprender el porqué de ciertas decisiones, el valor de las variables, etc... para eso está el PO que pasa su tiempo a recopilar toda esa información, a filtrarla y a darle forma. Sin embargo, cuanto más detallado sea el ticket de la tarea que el programador debe ejecutar (utilizando ubiquitous language), más simple sera la comprension, más facil sera de crear el TU y más rápido se podrá pasar ese ticket a DONE! Lo ideal sería que la descripción del ticket se haga con un leguaje que un compilador pueda interpretar... pero bueno, eso es la tarea del programador y tampoco vamos a quitarle la faena. ;) 
-
 ### La doc, poco a poco y con cabeza
 
-La documentación es muchas veces desagradable, aburrida, repetitiva... sobre todo si se deja para el final. Sin embargo, si en la _definition of done_ se decide que la doc tiene que hacerse a la vez, el mal trago es más frecuente pero menos malo. Esto permite igualmente de estructurar la doc con cabeza (y no apelotonar todo sin orden ni concierto) de manera que una persona exterior al proyecto que tenga que intervenir (o incluso el cliente) sepa encontrar lo que necesita o ejecutar un test de manera fácil y sencilla.
+La documentación es muchas veces desagradable, aburrida, repetitiva... sobre todo si se deja para el final. Sin embargo, si en la _definition of done_ se decide que la doc tiene que hacerse a la vez, el mal trago es más frecuente pero menos largo. Esto permite igualmente de estructurar la doc con cabeza (y no apelotonar todo sin orden ni concierto) de manera que una persona exterior al proyecto que tenga que intervenir (o incluso el cliente) sepa encontrar lo que necesita o ejecutar un test de manera fácil y sencilla.
 
 ### Tests unitarios: sí o sí
 
-Toda aplicación/software que no cuente con un buen paqueton de test unitarios que se lancen con frecuencia sufrira regresiones que pasaran inadvertidas durante la verificacion y lo más probable es que se vea una vez que se haya liberado. Y eso es así.
+Toda aplicación/software que no cuente con un buen paqueton de test unitarios que se lancen con frecuencia sufrirá regresiones que pasaran inadvertidas durante la verificación y lo más probable es que se vea una vez que se haya liberado. Y eso es así.
 
 ### Una demo vale más que mil palabras
 
-Cuando el software comienza a ser presentable, no hay que dudar en mostrarlo a los individuos interesados, sobre todo si pueden darte información, opiniones, criticas que puedan ayudarte en la consecución de tus objetivos. De esta manera se consiguen varias cosas:
+Cuando el software comienza a ser presentable, no hay que dudar en mostrarlo a los individuos interesados, sobre todo si pueden darte información, opiniones y/o criticas que puedan ayudarte en la consecución de tus objetivos. De esta manera se consiguen varias cosas:
 
 - *Feedback/use experience*: No se sabe si se està haciendo bien hasta que el usuario confirma, comenta y critica. Incluso si el PO debe ir a buscar esa valiosa información antes de nada, a veces se toman decisiones que parecen buenas en el seno del equipo, pero que no lo son del todo (o para nada) cuando se trata del usuario. Nadie mejor que el usuario (sobre todo si tiene experiencia con programas precedentes) sabe que es lo que le cuesta más, que es lo que le ayudará en el dia a dia y que es lo que le saca de quicio. Todo eso se tiene que reinyectar progresivamente (siempre y cuando no provoque el hundimiento del barco) y mostrarlo a esos usuarios finales porque, al final, son ellos los que van a utilizar ese programa cada dia.
-- *El mejor GPS*: Si el proyecto empieza a coger una direccion erronea, los clientes presentes en la demostración enseguida lo detectaran y lo harán saber. Así se evitan las derivas, la pérdida de tiempo, el agotamiento del presupuesto y tirar el programa a la basura porque ya es demasiado tarde.
-- *Confianza*: si el cliente/usuario del proyecto ve que sus comentarios y propuestas cogen forma cada semana, se crea un vinculo con el equipo de desarrollo que tiene mucho,volar. El poder ver y manipular ese programa antes de encontrarselo instalado en su PC un martes por la mañana y estar obligado a utilizarlo sin haber dicho ni muh, facilitara su aceptación.
+- *El mejor GPS*: Si el proyecto empieza a coger una direccion erronea, los clientes presentes en la demostración enseguida lo detectarán y lo harán saber. Así se evitan las derivas, la pérdida de tiempo, el agotamiento del presupuesto y tirar el programa a la basura porque ya es demasiado tarde.
+- *Confianza*: si el cliente/usuario del proyecto vé que sus comentarios y propuestas cogen forma cada semana, se crea un vínculo con el equipo de desarrollo que tiene mucho,volar. El poder ver y manipular ese programa antes de encontrarselo instalado en su PC un martes por la mañana y estar obligado a utilizarlo sin quererlo ni beberlo, facilitará su aceptación.
 
 ##CONCLUSIONES (de los errores siempre se aprende)
 
 - Tu programador es tu amigo, tratalo bien.
 - La fase de preparación del proyecto es obligatoria y hay que tomarse el tiempo necesario.
 - Cuanto más curioso es un PO, más información sonsacara al cliente (marketing, usuario final, etc...) y de mejor calidad será el INPUT.
-- Hay que sentarse al lado del usuario final y dejarle _zarcear_, ese sera tu mejor FEEDBACK.
+- Hay que sentarse al lado del usuario final y dejarle _zarcear_, ese será tu mejor FEEDBACK.
 - Una demo regular transmite confianza y buen ambiente.
 - La negociación es primordial para llegar a buen puerto.
 - El PO hace mucha faena en la sombra, pero pienso que es indispensable para cualquier proyecto.
