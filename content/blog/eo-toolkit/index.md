@@ -11,17 +11,17 @@ Lo primero de todo quiero dar las gracias a [Peio Roth](https://about.me/peiorot
 
 Que quede claro, trabajar con alguien excelente tanto como programador, como diseñador, como 'coach' agile y como product owner es muy fácil, sobre todo cuando esa persona es un muy buen compañero de trabajo y amigo (y le encanta irse de tragos).
 
-Juntos hemos creado una herramienta de trabajo, útil 100%, con la consecución de los objetivos iniciales, mejorable (como todos los softwares habidos y por haber), colaborado con nuestros clientes (compañeros en este caso) y utilizado un método de trabajo, que puede serme útil de aquí en adelante. Y, como no habíamos estimado el tiempo que nos iba a costar, no nos hemos equivocado... o solo un poco... (lo explicaré más abajo).
+Juntos hemos creado una herramienta de trabajo, útil 100%, con la consecución de los objetivos iniciales, mejorable (como todos los softwares habidos y por haber), colaborado con nuestros clientes (compañeros en este caso) y utilizado un método de trabajo que puede serme de gran utilidad de aquí en adelante. Y, como no habíamos estimado el tiempo que nos iba a costar, no nos hemos equivocado... o solo un poco...
 
-En la parrafada que he escrito a continuación, detallo más o menos todo lo que hemos hecho sin entrar en detalles técnicas. Puede que sirva a alguien más o no, pero seguro que a mi me recuerda ciertas cosas para los proyectos futuros.
+En la parrafada que he escrito a continuación, detallo más o menos todo lo que hemos hecho sin entrar en detalles técnicas. Puede que sirva a alguien más o no, pero seguro que a mi me recuerda ciertas cosas para los proyectos futuros. No describo nada más y nada menos que lo que se puede leer en los libros, pero habiendolo experimentado, comprobado su valor real y comentado a mi manera. 
 
 ## Porque este software?? 
 
-Desde hace tiempo, habiendo trabajo como responsable de producción para una oficina técnica, sé el beneficio cotidiano que tiene el disponer de la herramienta correcta para una tarea especifica (sobre todo si es repetitiva). 
+Desde hace tiempo, habiendo trabajado como responsable de producción para una oficina técnica, sé el beneficio cotidiano que tiene el disponer de la herramienta correcta para una tarea especifica (sobre todo sí es repetitiva). 
 
-En [Eove](http://eove.fr/cms/), todo se ha construido rápido, en paralelo, para salir del paso y bastante bastante bien. Es gracias a programas como el que asiste a los operadores a controlar los aparatos antes de mandarlos al cliente, que la empresa es lo que es hoy. Estando en el puesto de validación y verificación, como casi todo lo que se ha desarrollado en la empresa durante os primeros 4 años, ese programa ha pasado por mis manos, manipulado, estresado, corregido e instalado en producción. Esto no quita que, todas las mañanas al saludar a mis colegas de curro de producción (si, todas las mañanas nos saludamos TODOS en la empresa) vea que el programa que un día convirtió la fabricación artesanal en un cadena de producción, se haya quedado obsoleto, lleno de errores y tenga la misma ergonomía que une rueda cuadrada. 
+En [Eove](http://eove.fr/cms/), todo se ha construido rápido, en paralelo, para salir del paso y bastante bastante bien. Es gracias a programas como el que asiste a los operadores a controlar los aparatos antes de mandarlos al cliente, que la empresa es lo que es hoy. Estando en el puesto de validación y verificación, como casi todo lo que se ha desarrollado en la empresa durante los primeros 4 años, ese programa ha pasado por mis manos, manipulado, estresado, corregido e instalado en producción. Esto no quita que, todas las mañanas al saludar a mis colegas de curro de producción (si, todas las mañanas nos saludamos TODOS en la empresa) vea que el programa que un día convirtió la fabricación artesanal en un cadena de producción, se haya quedado obsoleto, lleno de errores y tenga la misma ergonomía que una rueda cuadrada. 
 
-Tras varios intentos y siguiendo nuestro objetivo de liquidar esa deuda técnicas creada por necesidad, nos han concedido 2 meses (más o menos) para crear/completar/inventar un software que mejore el día a día de la producción, ayude al servicio técnico a diagnosticar y reparar y permita a Eove de producir más rápido.
+Tras varios intentos y siguiendo nuestro objetivo de liquidar esa deuda técnica creada por necesidad, nos han concedido 2 meses (más o menos) para crear/completar/inventar un software que mejore el día a día de la producción, ayude al servicio técnico a diagnosticar y reparar y permita a Eove de producir más rápido.
 
 ## Antes de empezar
 
@@ -29,15 +29,15 @@ Tras varios intentos y siguiendo nuestro objetivo de liquidar esa deuda técnica
 
 ![eo-toolkit launch](./projet_targets.jpg)
 
-Primera parte super importante en el comienzo de un proyecto, sea el que sea. Muchos son los objetivos, pero pocos (los verdaderamente importantes) deben ser los abordados para delimitar el perímetro de acción. Creo que todo product owner, jefe de proyecto, etc... debería de aplicarse "el que mucho abarca, poco aprieta".
+Primera parte super importante en el comienzo de un proyecto, sea el que sea. Muchos son los objetivos, pero pocos (solo los verdaderamente importantes) deben ser los abordados para delimitar el perímetro de acción. Creo que todo product owner, jefe de proyecto, etc... debería de aplicarse el refrán "el que mucho abarca, poco aprieta".
 
-Así que nosotros, elegimos los siguientes:
+Así que nosotros, elegimos los siguientes...
 
 - **Rapidez**: la producción necesita poder controlar rápido.
-- **Fiabilidad**: durante el control, solamente el dispositivo fabricado puede fallar, el programa de control tiene que funcionar si o si (una herramienta que funciona siempre hace ganar tiempo igualmente)
+- **Fiabilidad**: durante el control, solamente el dispositivo fabricado puede fallar, el programa de control tiene que funcionar sí o sí (una herramienta que funciona siempre hace ganar tiempo igualmente).
 - **Ergonomía**: un trabajo repetitivo es aburrido siempre, pero al menos que sea fácil de utilizar y agradable a la vista.
 
-Y los hemos tenido delante durante todo el desarrollo, justo enfrente de nuestros puestos de trabajo, y en una zona de paso... nosotros no nos hemos olvidado en ningún momento, los demás han tenido curiosidad y sin quererlo ni beberlo, todo el mundo estaba al día de que se quería conseguir con este software.
+...y los hemos tenido delante durante todo el desarrollo, justo enfrente de nuestros puestos de trabajo, y en una zona de paso. El resultado es que nosotros no nos hemos olvidado en ningún momento, los demás han tenido curiosidad y sin quererlo ni beberlo, todo el mundo estaba al día de que se quería conseguir con este software.
 
 ### 2. Ubiquitous Language
 
@@ -49,9 +49,9 @@ Ingredientes:
 - 2 cucharadas de inglés técnico.
 
 Pasos a seguir para obtener un suculento _ubiquitous language_:
-1. Se lista las partes del software/aplicación
-2. Todo el mundo toma nota y pregunta si no queda claro
-3. Todo el mundo lo utiliza desde el principio, sin excepciones, tanto en la comunicación verbal, como en la redacción de ticket/tareas.
+1. Se listan las partes del software/aplicación.
+2. Todo el mundo toma nota y pregunta si no queda claro.
+3. Todo el mundo lo utiliza desde el principio, sin excepciones, tanto en la comunicación verbal, como en la redacción de tickets/tareas.
 4. Corregir al compañero es obligatorio, y solamente debe de tomarse como algo constructivo y nunca como una crítica banal.
 
 De esta manera, no hay lugar a errores de comunicación/interpretación, es decir, de trabajo en vano, pérdida de tiempo, retraso en el planning, conflicto entre compañeros de equipo, etc...
@@ -63,8 +63,6 @@ De esta manera, no hay lugar a errores de comunicación/interpretación, es deci
 Tercero y último, ponerse de acuerdo en que es lo que cada uno tiene que hacer para considerar que una tarea esta totalmente terminada y se puede pasar a otra cosa. Es la única manera de no dejar las cosas a medias, de no dejar para el final lo menos agradable y de mantener una visión clara/instantánea del avance del proyecto. Y lo mejor, permite de versionar prácticamente en todo momento, y eso es oro.
 
 ## Gestión del proyecto
-
-A seguido, no describo nada más y nada menos que lo que se puede leer en los libros, pero habiendolo experimentado, comprobado su valor real y comentado a mi manera. 
 
 ### TODAS las estimaciones son falsas
 
@@ -82,7 +80,7 @@ No sirve de nada llenar el backlog o el TODO con cientos de tickets, crear por n
 2. Menos tickets = más fácil de priorizar = MVP
 3. Menos tickets = más parece que avanzamos, más lejos del suicidio estará nuestro programador
 4. Si un ticket es importante, se volverá a hablar de él y podremos incluirlo en el momento adecuado.
-5. Un ticket tiene que escribirse cuando se tiene claro lo que se tiene que hacer y se dispone del tiempo necesario para crearlo correctamente. Los tickets con solamente un título no deben crearse (excepto si lo hace el programador "toto" para resolverlo el mismo; si, los programadores tienen más derechos que el PO).
+5. Un ticket tiene que escribirse cuando se tiene claro lo que se tiene que hacer y se dispone del tiempo necesario para crearlo correctamente. Los tickets con solamente un título no deben crearse (excepto si lo hace el programador "toto" para resolverlo el mismo; sí, los programadores tienen más derechos que el PO).
 
 ### Ticket = pseudo code
 
@@ -92,7 +90,7 @@ El programador, la mayor parte del tiempo, no necesita comprender el porqué de 
 
 La documentación es muchas veces desagradable, aburrida, repetitiva... sobre todo si se deja para el final. Sin embargo, si en la _definition of done_ se decide que la doc tiene que hacerse a la vez, el mal trago es más frecuente pero menos malo. Esto permite igualmente de estructurar la doc con cabeza (y no apelotonar todo sin orden ni concierto) de manera que una persona exterior al proyecto que tenga que intervenir (o incluso el cliente) sepa encontrar lo que necesita o ejecutar un test de manera fácil y sencilla.
 
-### Tests unitarios: SI o SI
+### Tests unitarios: sí o sí
 
 Toda aplicación/software que no cuente con un buen paqueton de test unitarios que se lancen con frecuencia sufrira regresiones que pasaran inadvertidas durante la verificacion y lo más probable es que se vea una vez que se haya liberado. Y eso es así.
 
