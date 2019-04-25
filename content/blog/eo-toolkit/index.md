@@ -13,7 +13,7 @@ Que quede claro, trabajar con alguien excelente tanto como programador, como dis
 
 Juntos hemos creado una herramienta de trabajo, útil 100%, con la consecución de los objetivos iniciales, mejorable (como todos los softwares habidos y por haber), colaborado con nuestros clientes (compañeros en este caso) y utilizado un método de trabajo que puede serme de gran utilidad de aquí en adelante. Y, como no habíamos estimado el tiempo que nos iba a costar, no nos hemos equivocado... o solo un poco...
 
-En la parrafada que he escrito a continuación, detallo más o menos todo lo que hemos hecho sin entrar en detalles técnicas. Puede que sirva a alguien más o no, pero seguro que a mi me recuerda ciertas cosas para los proyectos futuros. No describo nada más y nada menos que lo que se puede leer en los libros, pero habiendolo experimentado, comprobado su valor real y comentado a mi manera. 
+En la parrafada que he escrito a continuación, detallo más o menos todo lo que hemos hecho sin entrar en detalles técnicos. Puede que sirva a alguien más o no, pero seguro que a mi me recuerda ciertas cosas para los proyectos futuros. No describo nada más y nada menos que lo que se puede leer en los libros, pero habiendolo experimentado, comprobado su valor real y comentado a mi manera. 
 
 ## Porque este software?? 
 
