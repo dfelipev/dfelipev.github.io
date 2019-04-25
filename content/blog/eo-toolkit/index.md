@@ -3,7 +3,7 @@ title: '# eo-toolkit, mucho más que una herramienta de diagnostico...'
 date: '2019-04-17'
 ---
 
-**Tiempo estimado de lectura:** *mejor no hacer estimaciones...*
+**Tiempo estimado de lectura:** *mejor no hacer estimaciones...* :stuck_out_tongue_winking_eye:
 
 ![eo-toolkit launch](./splas-toolkit.gif)
 
