@@ -1,5 +1,5 @@
 ---
-title: '# eo-toolkit, mucho mas que una herramienta de diagnostico...'
+title: '# eo-toolkit, mucho más que una herramienta de diagnostico...'
 date: '2019-04-17'
 ---
 
@@ -13,7 +13,7 @@ Que quede claro, trabajar con alguien excelente tanto como programador, como dis
 
 Juntos hemos creado una herramienta de trabajo, útil 100%, con la consecución de los objetivos iniciales, mejorable (como todos los softwares habidos y por haber), colaborado con nuestros clientes (compañeros en este caso) y utilizado un método de trabajo, que puede serme útil de aquí en adelante. Y, como no habíamos estimado el tiempo que nos iba a costar, no nos hemos equivocado... o solo un poco... (lo explicaré más abajo).
 
-En la parrafada que he escrito a continuación, detallo mas o menos todo lo que hemos hecho sin entrar en detalles técnicas. Puede que sirva a alguien mas o no, pero seguro que a mi me recuerda ciertas cosas para los proyectos futuros.
+En la parrafada que he escrito a continuación, detallo más o menos todo lo que hemos hecho sin entrar en detalles técnicas. Puede que sirva a alguien más o no, pero seguro que a mi me recuerda ciertas cosas para los proyectos futuros.
 
 ## Porque este software?? 
 
@@ -21,7 +21,7 @@ Desde hace tiempo, habiendo trabajo como responsable de producción para una ofi
 
 En [Eove](http://eove.fr/cms/), todo se ha construido rápido, en paralelo, para salir del paso y bastante bastante bien. Es gracias a programas como el que asiste a los operadores a controlar los aparatos antes de mandarlos al cliente, que la empresa es lo que es hoy. Estando en el puesto de validación y verificación, como casi todo lo que se ha desarrollado en la empresa durante os primeros 4 años, ese programa ha pasado por mis manos, manipulado, estresado, corregido e instalado en producción. Esto no quita que, todas las mañanas al saludar a mis colegas de curro de producción (si, todas las mañanas nos saludamos TODOS en la empresa) vea que el programa que un día convirtió la fabricación artesanal en un cadena de producción, se haya quedado obsoleto, lleno de errores y tenga la misma ergonomía que une rueda cuadrada. 
 
-Tras varios intentos y siguiendo nuestro objetivo de liquidar esa deuda técnicas creada por necesidad, nos han concedido 2 meses (mas o menos) para crear/completar/inventar un software que mejore el día a día de la producción, ayude al servicio técnico a diagnosticar y reparar y permita a Eove de producir más rápido.
+Tras varios intentos y siguiendo nuestro objetivo de liquidar esa deuda técnicas creada por necesidad, nos han concedido 2 meses (más o menos) para crear/completar/inventar un software que mejore el día a día de la producción, ayude al servicio técnico a diagnosticar y reparar y permita a Eove de producir más rápido.
 
 ## Antes de empezar
 
@@ -64,9 +64,11 @@ Tercero y último, ponerse de acuerdo en que es lo que cada uno tiene que hacer 
 
 ## Gestión del proyecto
 
+A seguido, no describo nada más y nada menos que lo que se puede leer en los libros, pero habiendolo experimentado, comprobado su valor real y comentado a mi manera. 
+
 ### TODAS las estimaciones son falsas
 
-Casi todos los proyectos necesitan un plazo, los internos porque hay otros proyectos esperando y los externos porque hay que poder presupuestarlos. Nosotros hemos tenido la suerte de anunciar una fecha mas o menos, equivocarnos sin que nadie nos diga nada y liberar el software cuando lo hemos considerado maduro y funcional, pero eso no suele pasar. Así que cuando un superior o un cliente pide una estimación con un planning detallado, hay que hacerle saber que va a ser erróneo de un porcentaje muy elevado y que el tiempo del planning detallado es mejor utilizarlo en hacer avanzar el proyecto que en equivocarse detalladamente.
+Casi todos los proyectos necesitan un plazo, los internos porque hay otros proyectos esperando y los externos porque hay que poder presupuestarlos. Nosotros hemos tenido la suerte de anunciar una fecha más o menos, equivocarnos sin que nadie nos diga nada y liberar el software cuando lo hemos considerado maduro y funcional, pero eso no suele pasar. Así que cuando un superior o un cliente pide una estimación con un planning detallado, hay que hacerle saber que va a ser erróneo de un porcentaje muy elevado y que el tiempo del planning detallado es mejor utilizarlo en hacer avanzar el proyecto que en equivocarse detalladamente.
 
 ### El PO negocia y tiene la obligacion de decir NO
 
@@ -84,7 +86,7 @@ No sirve de nada llenar el backlog o el TODO con cientos de tickets, crear por n
 
 ### Ticket = pseudo code
 
-El programador, la mayor parte del tiempo, no necesita comprender el porqué de ciertas decisiones, el valor de las variables, etc... para eso está el PO que pasa su tiempo a recopilar toda esa información, a filtrarla y a darle forma. Sin embargo, cuanto más detallado sea el ticket de la tarea que el programador debe ejecutar (utilizando ubiquitous language), mas simple sera la comprension, mas facil sera de crear el TU y más rápido se podrá pasar ese ticket a DONE! Lo ideal sería que la descripción del ticket se haga con un leguaje que un compilador pueda interpretar... pero bueno, eso es la tarea del programador y tampoco vamos a quitarle la faena. ;) 
+El programador, la mayor parte del tiempo, no necesita comprender el porqué de ciertas decisiones, el valor de las variables, etc... para eso está el PO que pasa su tiempo a recopilar toda esa información, a filtrarla y a darle forma. Sin embargo, cuanto más detallado sea el ticket de la tarea que el programador debe ejecutar (utilizando ubiquitous language), más simple sera la comprension, más facil sera de crear el TU y más rápido se podrá pasar ese ticket a DONE! Lo ideal sería que la descripción del ticket se haga con un leguaje que un compilador pueda interpretar... pero bueno, eso es la tarea del programador y tampoco vamos a quitarle la faena. ;) 
 
 ### La doc, poco a poco y con cabeza
 
@@ -92,7 +94,7 @@ La documentación es muchas veces desagradable, aburrida, repetitiva... sobre to
 
 ### Tests unitarios: SI o SI
 
-Toda aplicación/software que no cuente con un buen paqueton de test unitarios que se lancen con frecuencia sufrira regresiones que pasaran inadvertidas durante la verificacion y lo mas probable es que se vea una vez que se haya liberado. Y eso es así.
+Toda aplicación/software que no cuente con un buen paqueton de test unitarios que se lancen con frecuencia sufrira regresiones que pasaran inadvertidas durante la verificacion y lo más probable es que se vea una vez que se haya liberado. Y eso es así.
 
 ### Una demo vale más que mil palabras
 
