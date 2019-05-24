@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: `https://diego.now.sh`,
     cvUrl: `https://drive.google.com/open?id=1OSNShlCCswTyYj-jqWcqICiIfKAP2DXh`,
     social: {
-      twitter: `dfelipevital`,
+      twitter: `dfelipe64`,
       github: `dfelipev`,
       aboutme: `diego.felipe`,
       linkedin: `diego-felipe-vital-10b148152`,
