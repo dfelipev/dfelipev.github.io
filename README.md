@@ -1,4 +1,4 @@
-# Peio's blog
+# Diego's blog
 
 Go [here](https://github.com/gatsbyjs/gatsby-starter-blog), follow README and customize.
 
