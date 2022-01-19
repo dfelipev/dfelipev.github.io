@@ -7,7 +7,7 @@ date: '2019-04-17'
 
 ![eo-toolkit launch](./splas-toolkit.gif)
 
-Lo primero de todo quiero dar las gracias a [Peio Roth](https://about.me/peioroth) por haber compartido barco en esta aventura "agile", una verdadera experiencia de [product owner](https://proyectosagiles.org/cliente-product-owner/).
+Lo primero de todo quiero dar las gracias a [Peio Roth](https://www.peio.dev) por haber compartido barco en esta aventura "agile", una verdadera experiencia de [product owner](https://proyectosagiles.org/cliente-product-owner/).
 
 Que quede claro, trabajar con alguien excelente tanto como programador, como diseñador, como 'coach' agile y como product owner es muy fácil, sobre todo cuando esa persona es un muy buen compañero de trabajo y amigo (y le encanta irse de tragos).
 
